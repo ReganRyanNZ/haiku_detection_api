@@ -1,6 +1,6 @@
 
 default: &default
-  adapter: post_gres
+  adapter: postgresql
   timeout: 5000
 
 development:
